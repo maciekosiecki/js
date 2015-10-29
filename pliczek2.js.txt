@@ -1,0 +1,7 @@
+int x = 70;
+
+double y=90.50;
+
+String "Siema iema ";
+
+int z = 400;
